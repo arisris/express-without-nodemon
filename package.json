@@ -1,0 +1,33 @@
+{
+  "name": "express-without-nodemon",
+  "version": "1.0.0",
+  "description": "Develop Express.js Apps Without Using Nodemon / without restarting server. wak you works like a php",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arisris/express-without-nodemon.git"
+  },
+  "keywords": [
+    "express.js",
+    "like",
+    "a",
+    "php",
+    "hot",
+    "reload",
+    "on",
+    "request"
+  ],
+  "author": "Aris Riswanto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arisris/express-without-nodemon/issues"
+  },
+  "homepage": "https://github.com/arisris/express-without-nodemon#readme",
+  "dependencies": {
+    "chokidar": "^3.5.1",
+    "express": "^4.17.1"
+  }
+}

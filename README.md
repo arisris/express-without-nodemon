@@ -6,11 +6,9 @@ Ini adalah sebuah starter project express.js tanpa reload server yang sangat mem
 
 ### Mengapa saya membuat repository ini?
 
-Karena saya sudah terbiasa menggunakan php. anda tahu di node.js ketika anda mengubah suatu kode dalam project kamu akan membutuhkan reload server secara manual atau otomatis dengan menggunakan library pihak ketiga seperti "nodemon" agar kamu dapat melihat perubahan yang terjadi di browser ketika di reload. Jika tidak maka kamu tidak akan melihat perubahan nya. Berbeda dengan php dengan "built'in web server" nya ketika kamu melakukan perubahan dalam kode project dan ketika kamu reload browser kamu akan seketika melihat perubahan yang terjadi tanpa membutuhkan reload server.
+Karena saya sudah terbiasa menggunakan php. Kamu tahu di node.js ketika kamu mengubah suatu kode dalam project kamu akan membutuhkan reload server secara manual atau otomatis dengan menggunakan library pihak ketiga seperti "nodemon" agar kamu dapat melihat perubahan yang terjadi di browser ketika di reload. Jika tidak maka kamu tidak akan melihat perubahan nya. Berbeda dengan php dengan "built'in web server" nya ketika kamu melakukan perubahan dalam kode project dan ketika kamu reload browser kamu akan seketika melihat perubahan yang terjadi tanpa membutuhkan reload server.
 
 Dengan starter project ini. membangun aplikasi node server berbasis express.js akan sama nyaman nya ketika kamu menggunakan php.
-
-Mohon maaf jika ada kesalahan kata. Karena saya tidak bisa bahasa inggris Jadi saya menggunakan google translate untuk menerjemahkan bahasa indonesia ke bahasa inggris.
 
 ### Bagaimana cara memulai nya?
 
@@ -22,6 +20,7 @@ $_ npm install
 $_ node .
 
 ```
+Mohon berikan bintang jika kamu suka. Kritik dan saran nya sangat saya tunggu.
 
 ## In English
 
@@ -35,7 +34,7 @@ Because I am used to using php. You know in node.js when you modify code in your
 
 With this starter project. building a node server application based on express.js will be just as comfortable when you use php.
 
-Sorry if there is a word error. Because I can't speak English So I use google translate to translate Indonesian into English.
+Sorry if there is a bad word. Because I can't speak English So I use google translate to make Indonesian into English.
 
 ### How to start?
 
